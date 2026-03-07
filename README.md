@@ -1,7 +1,3 @@
-Absolutely! Below is a **complete professional README.md** for your GitHub repository — formatted perfectly for recruiters, senior developers, and open-source standards.
-
----
-
 # 🚀 JARVIS – AI Powered Voice Assistant for Windows
 
 ### 🧠 Real-time Voice Controlled Desktop Automation with Weather, News, Search & More
