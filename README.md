@@ -1,23 +1,17 @@
-Absolutely! Below is a **complete professional README.md** for your GitHub repository — formatted perfectly for recruiters, senior developers, and open-source standards.
+# JARVIS – AI Powered Voice Assistant for Windows
 
----
+# Real-time Voice Controlled Desktop Automation with Weather, News, Search & More
 
-# 🚀 JARVIS – AI Powered Voice Assistant for Windows
 
-### 🧠 Real-time Voice Controlled Desktop Automation with Weather, News, Search & More
-
----
-
-## 📌 Overview
+# Overview
 
 JARVIS is an advanced desktop-based **AI Voice Assistant** built using **Python + Machine Learning + Automation + APIs**.
 It can **listen, understand, think, respond & execute real actions on a computer** like opening apps, capturing photos, taking screenshots, searching YouTube, playing music, reading latest news, checking weather and more.
 
-Unlike normal chatbots, JARVIS can **control your operating system in real life**.
+Unlike normal chatbots, JARVIS can control your operating system in real life.
 
----
 
-## ✨ Features
+#Features
 
 | Category          | Capabilities                                              |
 | ----------------- | --------------------------------------------------------- |
