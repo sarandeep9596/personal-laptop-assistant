@@ -17,3 +17,14 @@ edge-tts
 PyQt5
 webdriver-manager
 sounddevice
+transformers>=4.46
+torch>=2.4
+datasets>=3.0
+evaluate>=0.4
+scikit-learn>=1.5
+nlpaug>=1.1
+huggingface_hub>=0.26
+matplotlib>=3.9
+seaborn>=0.13
+pytest>=8.3
+pandas>=2.2

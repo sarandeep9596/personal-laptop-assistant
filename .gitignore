@@ -6,3 +6,7 @@ __pycache__/
 Data/
 .venv/
 venv/
+reports/*.png
+models/
+*.onnx
+.pytest_cache/
