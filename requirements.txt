@@ -1,0 +1,41 @@
+# GUI
+PyQt5==5.15.11
+
+# AI / ML
+groq
+torch==2.4.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+huggingface_hub
+datasets
+evaluate
+nlpaug
+
+# Speech
+edge-tts
+sounddevice
+scipy
+
+# Search / Web
+googlesearch-python
+pywhatkit
+selenium
+requests
+beautifulsoup4
+
+# System automation (Windows only)
+appopener
+pyautogui
+pygetwindow
+keyboard
+
+# Utilities
+python-dotenv
+geocoder
+Pillow
+numpy
+pandas
+mtranslate
+pygame
+matplotlib
+seaborn
+scikit-learn
