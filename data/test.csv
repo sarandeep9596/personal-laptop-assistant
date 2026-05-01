@@ -1,0 +1,151 @@
+query,intent
+shut photoshop,close
+shut down slack,close
+close the file explorer,close
+close outlook,close
+quit terminal,close
+close word,close
+terminate calculator,close
+quit zoom,close
+close whatsapp,close
+close excel,close
+close edge,close
+close settings,close
+close notepad,close
+quit teams,close
+quit obsidian,close
+who is your creator,general
+do you believe in god,general
+say something nice,general
+are you a robot,general
+what is artificial intelligence,general
+tell me a joke,general
+do you have feelings,general
+what is the largest planet,general
+who wrote hamlet,general
+explain quantum computing simply,general
+who painted the mona lisa,general
+what is photosynthesis,general
+why is the sky blue,general
+what is python,general
+do you like pizza,general
+make a photo of an ancient temple in a jungle,generate image
+generate a photo of sunset mountains,generate image
+draw a picture of a forest in autumn,generate image
+generate a picture of a panda playing a guitar,generate image
+create an image of an astronaut on a horse,generate image
+create an image of a steampunk airship,generate image
+generate a picture of a samurai in cherry blossoms,generate image
+generate a photo of an old library,generate image
+generate an image of a cyberpunk street market,generate image
+generate an image of a sloth wearing sunglasses,generate image
+create a picture of a phoenix rising,generate image
+generate a photo of a vintage car,generate image
+draw an image of a tiny dragon on a coffee cup,generate image
+make an image of a futuristic city,generate image
+make a photo of a moonlit lake,generate image
+google reviews of iphone 17,google search
+google flight prices delhi to mumbai,google search
+search the meaning of compunction,google search
+google modi government schemes,google search
+google for income tax slabs,google search
+google taylor swift latest album,google search
+google who is ms dhoni,google search
+google who is virat kohli,google search
+search for tutorials on react native,google search
+search who is sachin tendulkar,google search
+google capital of australia,google search
+search for jobs in bangalore,google search
+google what is python programming,google search
+google how does bert work,google search
+google for chess openings,google search
+launch youtube app,open
+get me chrome,open
+open chrome,open
+launch slack,open
+fire up calculator,open
+open notepad,open
+boot photoshop,open
+start discord,open
+open task manager,open
+fire up edge,open
+launch outlook,open
+launch terminal,open
+start zoom,open
+start spotify,open
+launch firefox,open
+play radioactive,play
+play raabta,play
+play closer chainsmokers,play
+play apna time aayega,play
+play viva la vida,play
+play believer,play
+play tum hi ho,play
+play uptown funk,play
+play satisfya,play
+play despacito,play
+play ed sheeran perfect,play
+play kesariya,play
+play levitating dua lipa,play
+play bohemian rhapsody,play
+play channa mereya,play
+what day is it today,realtime
+is it cold outside,realtime
+is today hot,realtime
+current headlines,realtime
+what is the humidity right now,realtime
+news about cricket today,realtime
+how cold is it,realtime
+what time is it,realtime
+how hot is it outside,realtime
+breaking news right now,realtime
+will it snow today,realtime
+read me the headlines,realtime
+what is happening in the world today,realtime
+latest news in india,realtime
+will it rain today,realtime
+remind me to drink water at 8 pm,reminder
+remind me to charge my phone tonight,reminder
+remind me about dad's birthday on saturday,reminder
+set reminder for project review monday morning,reminder
+remind me to defrost the chicken,reminder
+set a reminder to submit assignment at midnight,reminder
+set a reminder to renew my subscription,reminder
+remind me about the dentist appointment tomorrow,reminder
+remind me to go for a run at 6 am,reminder
+remind me to feed the cat at 8 am,reminder
+remind me to wish riya happy birthday,reminder
+remind me to send the report by 5 pm,reminder
+set a reminder to pay the electricity bill,reminder
+set a reminder to water the plants every monday,reminder
+remind me to study at 10 pm,reminder
+make it louder,system
+decrease volume,system
+quieter,system
+unmute,system
+volume down,system
+sound on,system
+hush,system
+mute the volume,system
+silence please,system
+silent,system
+turn volume on,system
+volume up,system
+shh,system
+bring the volume down,system
+make it quieter,system
+search for python tutorials on youtube,youtube search
+search live cricket commentary on youtube,youtube search
+youtube cooking videos,youtube search
+search youtube for car reviews,youtube search
+search arijit singh on youtube,youtube search
+search ted talks on youtube,youtube search
+search travel vlogs on youtube,youtube search
+search bollywood dance covers on youtube,youtube search
+youtube tech reviews,youtube search
+youtube standup comedy,youtube search
+youtube workout videos for beginners,youtube search
+youtube ipl highlights,youtube search
+search lo-fi music on youtube,youtube search
+search for gaming videos on youtube,youtube search
+youtube anuv jain songs,youtube search
