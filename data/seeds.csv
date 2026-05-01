@@ -1,0 +1,251 @@
+query,intent
+open chrome,open
+open notepad,open
+launch firefox,open
+start spotify,open
+open vscode please,open
+fire up calculator,open
+boot up word,open
+get me chrome,open
+chrome please,open
+launch youtube app,open
+open the file explorer,open
+start zoom,open
+open camera,open
+launch slack,open
+get teams open,open
+open whatsapp,open
+fire up edge,open
+boot photoshop,open
+open settings,open
+launch terminal,open
+open task manager,open
+start discord,open
+open the calculator app,open
+launch outlook,open
+open powerpoint,open
+close chrome,close
+close notepad,close
+shut down spotify,close
+quit firefox,close
+close vscode please,close
+terminate calculator,close
+close word,close
+close camera,close
+shut spotify,close
+close the file explorer,close
+quit zoom,close
+close edge,close
+shut down slack,close
+close discord,close
+quit teams,close
+close whatsapp,close
+shut photoshop,close
+close settings,close
+quit terminal,close
+close outlook,close
+shut down powerpoint,close
+close excel,close
+quit obsidian,close
+close steam,close
+shut down telegram,close
+play kesariya,play
+play despacito,play
+play arijit singh songs,play
+play shape of you,play
+play believer by imagine dragons,play
+play perfect by ed sheeran,play
+play tum hi ho,play
+play raabta,play
+play channa mereya,play
+play closer chainsmokers,play
+play ed sheeran perfect,play
+play apna time aayega,play
+play seedhe maut,play
+play the night we met,play
+play blinding lights,play
+play levitating dua lipa,play
+play satisfya,play
+play yellow coldplay,play
+play viva la vida,play
+play see you again,play
+play counting stars,play
+play believer,play
+play uptown funk,play
+play bohemian rhapsody,play
+play radioactive,play
+increase volume,system
+volume up,system
+turn it up,system
+louder,system
+make it louder,system
+decrease volume,system
+volume down,system
+turn it down,system
+quieter,system
+make it quieter,system
+mute,system
+mute the volume,system
+silent,system
+silence please,system
+mute audio,system
+unmute,system
+unmute the volume,system
+turn volume on,system
+sound on,system
+restore audio,system
+crank the volume,system
+bring the volume down,system
+hush,system
+shh,system
+turn it off no wait turn it down,system
+google who is virat kohli,google search
+google who is ms dhoni,google search
+google for who won the world cup,google search
+search who is sachin tendulkar,google search
+google what is python programming,google search
+search the web for best laptops 2026,google search
+google how does bert work,google search
+search for indian recipes,google search
+google for distance from earth to moon,google search
+google modi government schemes,google search
+search for jobs in bangalore,google search
+google flight prices delhi to mumbai,google search
+google reviews of iphone 17,google search
+search the meaning of compunction,google search
+google taylor swift latest album,google search
+search for tutorials on react native,google search
+google for chess openings,google search
+search up isro upcoming missions,google search
+google ipl 2026 schedule,google search
+google for income tax slabs,google search
+search recent news on ai,google search
+google how to make pizza dough,google search
+search for paris travel guide,google search
+google capital of australia,google search
+search the population of india,google search
+search arijit singh on youtube,youtube search
+youtube anuv jain songs,youtube search
+search for python tutorials on youtube,youtube search
+youtube cooking videos,youtube search
+search ms dhoni interviews on youtube,youtube search
+youtube workout videos for beginners,youtube search
+search latest movie trailers on youtube,youtube search
+youtube guitar tutorials,youtube search
+search travel vlogs on youtube,youtube search
+youtube tech reviews,youtube search
+search lo-fi music on youtube,youtube search
+youtube standup comedy,youtube search
+search ted talks on youtube,youtube search
+youtube history documentaries,youtube search
+search for gaming videos on youtube,youtube search
+youtube ml courses,youtube search
+search live cricket commentary on youtube,youtube search
+youtube cute puppy videos,youtube search
+search asmr videos on youtube,youtube search
+youtube physics lectures,youtube search
+search bollywood dance covers on youtube,youtube search
+youtube veg recipes,youtube search
+search youtube for car reviews,youtube search
+youtube ipl highlights,youtube search
+search photography tutorials on youtube,youtube search
+generate a photo of sunset mountains,generate image
+generate an image of a cat in a hat,generate image
+create a picture of a dragon flying over a castle,generate image
+generate a photo of a vintage car,generate image
+make an image of a futuristic city,generate image
+generate a picture of a samurai in cherry blossoms,generate image
+create a photo of a beach at dawn,generate image
+generate an image of a robot serving coffee,generate image
+draw a picture of a forest in autumn,generate image
+generate a photo of a spaceship landing on mars,generate image
+create an image of an astronaut on a horse,generate image
+generate a picture of a wizard casting a spell,generate image
+make a photo of a moonlit lake,generate image
+generate an image of a cyberpunk street market,generate image
+create a picture of a phoenix rising,generate image
+generate a photo of an old library,generate image
+draw an image of a tiny dragon on a coffee cup,generate image
+generate a picture of a lighthouse in a storm,generate image
+make an image of a hot air balloon over fields,generate image
+generate a photo of a misty mountain village,generate image
+create a picture of a knight fighting a dragon,generate image
+generate an image of a sloth wearing sunglasses,generate image
+make a photo of an ancient temple in a jungle,generate image
+generate a picture of a panda playing a guitar,generate image
+create an image of a steampunk airship,generate image
+remind me to drink water at 8 pm,reminder
+remind me to call mom at 7 pm,reminder
+set a reminder for the meeting at 3,reminder
+remind me about the dentist appointment tomorrow,reminder
+remind me to take my medicine at 9 am,reminder
+set a reminder to submit assignment at midnight,reminder
+remind me to go for a run at 6 am,reminder
+remind me to buy groceries this evening,reminder
+set a reminder to pay the electricity bill,reminder
+remind me about dad's birthday on saturday,reminder
+remind me to study at 10 pm,reminder
+set reminder for project review monday morning,reminder
+remind me to feed the cat at 8 am,reminder
+remind me to charge my phone tonight,reminder
+set a reminder to renew my subscription,reminder
+remind me to back up my code,reminder
+remind me to check email at 9,reminder
+set reminder to attend yoga class at 7 am,reminder
+remind me to walk the dog,reminder
+remind me to wish riya happy birthday,reminder
+set a reminder for the flight at 5 am tomorrow,reminder
+remind me to lock the door before sleeping,reminder
+remind me to send the report by 5 pm,reminder
+set a reminder to water the plants every monday,reminder
+remind me to defrost the chicken,reminder
+how are you,general
+do you like pizza,general
+who is your creator,general
+tell me a joke,general
+what is your favourite color,general
+how old are you,general
+do you sleep,general
+are you a robot,general
+what do you think about love,general
+do you have feelings,general
+what is the meaning of life,general
+say something nice,general
+do you believe in god,general
+who is sachin tendulkar,general
+what is python,general
+explain quantum computing simply,general
+why is the sky blue,general
+who wrote hamlet,general
+what is recursion,general
+explain newtons third law,general
+what is photosynthesis,general
+who painted the mona lisa,general
+what is the largest planet,general
+how do airplanes fly,general
+what is artificial intelligence,general
+what is the temperature now,realtime
+is today hot,realtime
+will it rain today,realtime
+how is the weather outside,realtime
+is it cold outside,realtime
+what is todays weather forecast,realtime
+will i need an umbrella today,realtime
+what is the humidity right now,realtime
+tell me todays news,realtime
+top news today,realtime
+breaking news right now,realtime
+current headlines,realtime
+what is happening in the world today,realtime
+what time is it,realtime
+what is todays date,realtime
+what day is it today,realtime
+is it raining outside,realtime
+how cold is it,realtime
+news about cricket today,realtime
+latest news in india,realtime
+weather in mumbai now,realtime
+will it snow today,realtime
+how hot is it outside,realtime
+read me the headlines,realtime
+todays top stories,realtime
